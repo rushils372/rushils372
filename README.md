@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushil Dewaskar</h1>
-<h3 align="center">A passionate developer, Working on React JS, Firebase currently and exploring Web3.</h3>
+<h3 align="center">A passionate Developer, Working on React JS, Firebase currently and exploring Web3.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
